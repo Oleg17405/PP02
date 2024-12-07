@@ -1,0 +1,31 @@
+﻿<Window x:Class="OhtaPark.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OhtaPark"
+        mc:Ignorable="d"
+      Title="Заказы" Height="450" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="73*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="TimerLabel" Content="00:00:00" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="641,20,0,0" Grid.Column="1"/>
+        <DataGrid x:Name="Tab" AutoGenerateColumns="False" IsReadOnly="True" Margin="68,70,68,69"  Grid.Column="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding OrderId}" Visibility="Collapsed"/>
+                <DataGridTextColumn Header="Код заказа" Binding="{Binding OrderCode}"/>
+                <DataGridTextColumn Header="Дата проката" Binding="{Binding CreationDate}"/>
+                <DataGridTextColumn Header="Время проката" Binding="{Binding OrderTime}"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding OrderStatus}"/>
+                <DataGridTextColumn Header="Дата возврата" Binding="{Binding ClosureDate}"/>
+                <DataGridTextColumn Header="Время(минуты)" Binding="{Binding RentalTime}"/>
+                <DataGridTextColumn Header="Услуги" Binding="{Binding Services.ServiceName}"/>
+                <DataGridTextColumn Header="Клиент" Binding="{Binding Clients.FirstName}"/>
+                <DataGridTextColumn Header="Сотрудник" Binding="{Binding Employees.FirstName}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

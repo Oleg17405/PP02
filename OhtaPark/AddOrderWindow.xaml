@@ -1,0 +1,35 @@
+﻿<Window x:Class="OhtaPark.AddOrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OhtaPark"
+        mc:Ignorable="d"
+        Title="AddOrderWindow" Height="450" Width="487">
+    <Grid>
+        <Label x:Name="TimerLabel" Content="00:00:00" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" Margin="350 0 0 400"/>
+        <Label Content="Код:" Height="30" Width="50" FontSize="15" Margin="0 0 300 300"/>
+        <Label Content="Дата заказа:" Height="30" Width="100" FontSize="15" Margin="0 0 350 220"/>
+        <Label Content="Время заказа:" Height="30" Width="110" FontSize="15" Margin="0 0 360 140"/>
+        <Label Content="Статус:" Height="30" Width="80" FontSize="15" Margin="0 0 295 70"/>
+        <Label Content="Дата возврата:" Height="30" Width="115" FontSize="15" Margin="0 0 370 0"/>
+        <Label Content="Время:" Height="30" Width="80" FontSize="15" Margin="0 70 300 0"/>
+        <Label Content="Услуги:" Height="30" Width="80" FontSize="15" Margin="0 140 300 0"/>
+        <Label Content="Клиент:" Height="30" Width="80" FontSize="15" Margin="0 210 300 0"/>
+        <TextBox x:Name="Codetb"  Height="20" Width="150" Margin="128,57,209,357"/>
+        <DatePicker x:Name="Orderdp" Width="150" Margin="128,97,209,312"/>
+        <TextBox  x:Name="ordertime" PreviewTextInput="ordertime_PreviewTextInput" PreviewKeyDown="timetb_PreviewKeyDown" GotFocus="timetb_GotFocus" Width="150" Margin="128,137,209,272"/>
+        <ComboBox x:Name="statuscb" Width="150" Margin="128,172,209,237">
+            <ComboBoxItem Content="Новая"/>
+            <ComboBoxItem Content="В прокате"/>
+            <ComboBoxItem Content="Закрыта"/>
+        </ComboBox>
+        <DatePicker x:Name="returndp" Width="150" Margin="128,207,209,202"/>
+        <TextBox x:Name="timetb" PreviewTextInput="timetb_PreviewTextInput" Width="150" MaxLength="3" Margin="128,242,209,167"/>
+        <ComboBox x:Name="servicecb" Width="150" Margin="128,277,209,132"/>
+        <ComboBox x:Name="clientscb" Width="150" Margin="128,312,209,97"/>
+        <Button x:Name="AddBtn" Margin="364,394,10,10" Content="Добавить клиента" Click="AddBtn_Click"/>
+        <Button x:Name="savebt" Margin="151,359,232,40" Content="сделать заказ" Click="savebt_Click"/>
+
+    </Grid>
+</Window>

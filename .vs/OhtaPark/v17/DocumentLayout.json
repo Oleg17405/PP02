@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oleg\\Desktop\\OhtaPark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|c:\\users\\oleg\\desktop\\ohtapark\\ohtapark\\addclientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\addclientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|C:\\Users\\oleg\\Desktop\\OhtaPark\\ohtapark\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|C:\\Users\\oleg\\Desktop\\OhtaPark\\ohtapark\\addorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\addorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|C:\\Users\\oleg\\Desktop\\OhtaPark\\ohtapark\\addorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\addorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|C:\\Users\\oleg\\Desktop\\OhtaPark\\ohtapark\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|C:\\Users\\oleg\\Desktop\\OhtaPark\\ohtapark\\captcha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\captcha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|C:\\Users\\oleg\\Desktop\\OhtaPark\\ohtapark\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|C:\\Users\\oleg\\Desktop\\OhtaPark\\ohtapark\\captcha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\captcha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|c:\\users\\oleg\\desktop\\ohtapark\\ohtapark\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|C:\\Users\\oleg\\Desktop\\OhtaPark\\ohtapark\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|c:\\users\\oleg\\desktop\\ohtapark\\ohtapark\\addclientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83CF3D-59AF-4D96-99EA-D88922ACAB51}|OhtaPark\\OhtaPark.csproj|solutionrelative:ohtapark\\addclientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\Model1.edmx",
+              "RelativeDocumentMoniker": "OhtaPark\\Model1.edmx",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "OhtaPark\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-07T16:43:19.891Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\AddOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OhtaPark\\AddOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\AddOrderWindow.xaml.cs",
+              "RelativeToolTip": "OhtaPark\\AddOrderWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:32:03.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\AddOrderWindow.xaml",
+              "RelativeDocumentMoniker": "OhtaPark\\AddOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\AddOrderWindow.xaml",
+              "RelativeToolTip": "OhtaPark\\AddOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T09:27:23.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OhtaPark\\OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "OhtaPark\\OrderWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:58:03.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "OhtaPark\\OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\OrderWindow.xaml",
+              "RelativeToolTip": "OhtaPark\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T07:14:30.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Captcha.xaml",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\Captcha.xaml",
+              "RelativeDocumentMoniker": "OhtaPark\\Captcha.xaml",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\Captcha.xaml",
+              "RelativeToolTip": "OhtaPark\\Captcha.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T07:09:31.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddClientWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\AddClientWindow.xaml",
+              "RelativeDocumentMoniker": "OhtaPark\\AddClientWindow.xaml",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\AddClientWindow.xaml",
+              "RelativeToolTip": "OhtaPark\\AddClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T06:36:37.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OhtaPark\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\MainWindow.xaml",
+              "RelativeToolTip": "OhtaPark\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T06:25:29.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Captcha.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\Captcha.xaml.cs",
+              "RelativeDocumentMoniker": "OhtaPark\\Captcha.xaml.cs",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\Captcha.xaml.cs",
+              "RelativeToolTip": "OhtaPark\\Captcha.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:10:23.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OhtaPark\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OhtaPark\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:25:28.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddClientWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\AddClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OhtaPark\\AddClientWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oleg\\Desktop\\OhtaPark\\OhtaPark\\AddClientWindow.xaml.cs",
+              "RelativeToolTip": "OhtaPark\\AddClientWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:23:56.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
